@@ -1,3 +1,5 @@
+<!-- hide -->
+
 # OWASP Top 10 Vulnerabilities Exercises
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/owasp-top10-exercises/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
@@ -6,8 +8,13 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.es.md) :es:*
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/owasp-top10-exercises/blob/main/README.es.md)*
+
+### Before you start...
+
+> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
+
 
 ## 📝 Instructions
 
@@ -20,14 +27,11 @@ In this activity, we will use the BeeBox virtual machine, which contains the vul
 - Identify vulnerable points in bWAPP corresponding to the OWASP Top 10 categories.
 - Explore how each vulnerability can be exploited to access sensitive data or compromise the application's security.
 
-
-
 <!-- hide -->
-### Before you start...
-
-> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
+<how-to-start>
+  
 ## 🌱 How to start a project?
 
 Clone this repository in your debian virtual machine ([how to clone this repository](https://github.com/breatheco-de/owasp-top10-exercises)) and follow the steps below:
@@ -43,6 +47,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+</how-to-start>
 
 <!-- hide -->
 ## Contributors

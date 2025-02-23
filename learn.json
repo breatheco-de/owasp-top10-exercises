@@ -2,6 +2,9 @@
   "grading": "isolated",
   "difficulty": "intermediate",
   "duration": 4,
+  "template_url": "self",
+  "projectType": "tutorial",
+  "autoPlay": "true",
   "technologies": ["cybersecurity", "pentesting", "red team", "ciberseguridad", "owasp", "owasp top 10"],
   "preview": "https://github.com/breatheco-de/owasp-top10-exercises/blob/main/oswap-top-10.png?raw=true",
   "description": {
